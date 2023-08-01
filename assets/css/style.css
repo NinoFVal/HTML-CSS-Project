@@ -14,13 +14,17 @@ body {
 }
 
 header {
+  background-color: palegoldenrod;
   display: flex;
   justify-content: space-between;
   align-items: start;
+  position: fixed;
+  width: 100%;
 }
 
 header a {
   text-decoration: none;
+  color: slateblue;
 }
 
 h1,
@@ -38,6 +42,7 @@ h2 {
 
 #nav {
   list-style: none;
+  padding-right: 10px;
 }
 
 main {
