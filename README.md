@@ -1,6 +1,6 @@
 # Yup Yoga
 
- Yup Yoga is hoping to a bring a wide variety of yoga classes to people who are looking to begin practising yoga. It will also be targeted at people who want to challenge themselves and add new way of exercising to their fitness journey. The Yup Yoga website will be a way for people learn about the different yoga styles and also a place they can book classes.
+Yup Yoga is hoping to a bring a wide variety of yoga classes to people who are looking to begin practising yoga. It will also be targeted at people who want to challenge themselves and add new way of exercising to their fitness journey. The Yup Yoga website will be a way for people learn about the different yoga styles and also a place they can book classes.
 
  put wireframe and layouts here
 
