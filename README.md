@@ -1,39 +1,65 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+# Yup Yoga
 
-Welcome,
+ Yup Yoga is hoping to a bring a wide variety of yoga classes to people who are looking to begin practicing yoga. It will also be targeted at people who want to challenge themselves and add new way of excercising to their fitness journey. The Yup Yoga website will be a way for people learn about the different yoga styles and also a place they can book classes.
 
-This is the Code Institute student template for Codeanywhere. We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
+ put wireframe and layouts here
 
-You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Codeanywhere and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **May 11th, 2023**
+## Features
 
-## Codeanywhere Reminders
+In this section, you should go over the different parts of your project, and describe each in a sentence or so. You will need to explain what value each of the features provides for the user, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
+Existing Features
 
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere, in the terminal, type:
+### Existing Features
 
-`python3 -m http.server`
+#### Navigation Bar
 
-A button should appear to click: _Open Preview_ or _Open Browser_.
+- The navigation bar will be used to explore each of the websites pages with ease. With links to the Home, Yoga Styles and Class Schedule Pages
 
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere with no-cache, you can use this alias for `python3 -m http.server`.
+- It will be fully responsive and feature at the top of each page.
 
-`http_server`
+#### The Landing page
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+- The landing page will feature an image of a person practicing yoga with a quote about yoga to show users at first glance what this site is about.
 
-A button should appear to click: _Open Preview_ or _Open Browser_.
+#### The Footer
 
-In Codeanywhere you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
+- The footer will feature links the Yup Yoga's social media pages.
+- The footer is fully responsive and will open each social media page on a new window.
 
-To log into the Heroku toolbelt CLI:
+#### About Me
 
-1. Log in to your Heroku account and go to _Account Settings_ in the menu under your avatar.
-2. Scroll down to the _API Key_ and click _Reveal_
-3. Copy the key
-4. In Codeanywhere, from the terminal, run `heroku_config`
-5. Paste in your API key when asked
+- The About me page will feature a description the website owner who is offering the ypoga classes
 
-You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works. This API key is unique and private to you so do not share it. If you accidentally make it public then you can create a new one with _Regenerate API Key_.
+#### Yoga Styles page
 
----
+- The yoga styles page will introduce user to diffent yoga practices.
+- This will inform users on which class they should take when they come to book a class with Yup Yoga.
 
-Happy coding!
+#### Class Schedule
+
+- This class schedule page feature shows the day, type and time for each class being held
+- It will also feature the cost of each class.
+
+#### Map Location
+
+- The map feature on the class schedule page will shown the exact loction for yoga classes.
+- Interacting with this map will give directions to the class location through google maps.
+
+#### Book a Class Link
+
+- The book a class link on the class schedule page will direct users to a third party booking site.
+- This will provide users with the peace of mind that any payment for booking will be taken securly.
+
+## Testing
+
+### Validator Testing
+
+### unfixed bugs
+
+## Deployment
+
+## Credits
+
+### Site Content
+
+### Images
