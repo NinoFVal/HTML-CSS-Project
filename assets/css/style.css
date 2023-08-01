@@ -43,6 +43,14 @@ h2 {
 #nav {
   list-style: none;
   padding-right: 10px;
+  display: flex;
+  flex-direction: column;
+  padding-top: 5px;
+}
+
+.active {
+  border-top: 2px solid slateblue;
+  border-bottom: 2px solid slateblue;
 }
 
 main {
