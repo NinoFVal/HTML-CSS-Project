@@ -6,13 +6,41 @@
   padding: 0;
   box-sizing: border-box;
 }
+body {
+  font-family: "Poppins", Arial, Helvetica, sans-serif;
+}
 
 header {
-  background-color: lightblue;
+  display: flex;
+  justify-content: space-between;
+  align-items: start;
+}
+
+header a {
+  text-decoration: none;
+}
+
+h1,
+h2 {
+  font-family: "Abril Fatface", Arial, Helvetica, sans-serif;
+  color: slateblue;
+  letter-spacing: 1px;
+}
+
+#name {
+  font-size: 280%;
+  text-decoration: underline slateblue;
+  padding: 10px 10px;
+}
+
+#nav {
+  list-style: none;
+  color: slateblue;
 }
 
 main {
   background-color: lightgreen;
+  height: 100vw;
 }
 
 footer {
