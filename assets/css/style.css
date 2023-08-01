@@ -1,0 +1,18 @@
+/* Wildcard  */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+header {
+  background-color: lightblue;
+}
+
+main {
+  background-color: lightgreen;
+}
+
+footer {
+  background-color: lightcoral;
+}
