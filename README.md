@@ -12,7 +12,7 @@ As a First Time Visitor,
 
 As a First Time Visitor,
 
-As a First Time Visitor, 
+As a First Time Visitor,
 
 #### Returning Visitor Goals
 
@@ -30,11 +30,19 @@ As a Frequent User,
 
 As a Frequent User,
 
+### Website Layout
+
 ### Design
 
 #### Colour Scheme
 
-- 
+##### The Colors chosen for this website are
+
+- Goldenrod #E0A526. For the Header and Footer backgrounds.
+
+- Slateblue #6A5ACD. For the Header and Footer text and Icons.
+
+- other
 
 #### Typography
 
@@ -42,13 +50,7 @@ As a Frequent User,
 - Poppins was chosen for the content of the page because of its sharp lines and its pairing to Abril Fatface.
 - san-seraf is the fallback font incase either of the main fonts fail to be imported from Google fonts.
 
-
-
 #### Imagery
-
-- Imagery is important. The large, background hero image is designed to be striking and catch the user's attention. It also has a modern, energetic aesthetic
-
-### Website Layout
 
 ## Features
 
