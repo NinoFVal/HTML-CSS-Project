@@ -72,7 +72,23 @@ main {
 }
 
 footer {
-  background-color: lightcoral;
+  background-color: goldenrod;
+  width: 100%;
+}
+
+/* Footer */
+#socials {
+  text-align: center;
+  padding: 20px 0;
+  display: flex;
+  justify-content: space-evenly;
+  list-style-type: none;
+}
+
+#socials i {
+  font-size: 160%;
+  padding: 5%;
+  color: slateblue;
 }
 
 @media screen and (min-width: 768px) {
