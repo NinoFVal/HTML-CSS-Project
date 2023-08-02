@@ -77,7 +77,6 @@ footer {
 
 @media screen and (min-width: 768px) {
   header {
-    display: flex;
     justify-content: space-around;
   }
 
@@ -86,17 +85,35 @@ footer {
   }
 
   nav {
+    font-size: 120%;
     box-shadow: none;
     width: fit-content;
   }
 
   #nav-menu {
     display: flex;
-
     letter-spacing: 2px;
   }
 
   main {
     margin-top: 90px;
+  }
+}
+
+@media screen and (min-width: 992px) {
+  header {
+    justify-content: space-between;
+  }
+
+  #name {
+    font-size: 400%;
+    margin: 0 1em;
+  }
+
+  nav {
+    margin: 0 1em;
+  }
+  #nav-menu a:hover {
+    border-bottom: 2px solid slateblue;
   }
 }
