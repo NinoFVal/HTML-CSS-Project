@@ -6,46 +6,58 @@
   padding: 0;
   box-sizing: border-box;
 }
+/* base css stying */
 body {
-  font-family: "Poppins", Arial, Helvetica, sans-serif;
+  font-family: "Poppins", sans-serif;
+  /* To postion header, main and footer */
   display: flex;
   flex-direction: column;
   min-height: 100vh;
+  /* maybe change */
+  color: darkslategrey;
 }
 
+/* Header container */
 header {
-  background-color: palegoldenrod;
-  display: flex;
-  justify-content: space-between;
-  align-items: start;
+  /* header styling */
+  background-color: goldenrod;
+  padding: 0 10px;
+  /* for fixing header to page, adding box shadow  */
   position: fixed;
   width: 100%;
+  z-index: 99;
+  box-shadow: 0 5px 5px 0 slateblue;
+  /* For positioning name and nav bar in header */
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
 }
 
 header a {
-  text-decoration: none;
   color: slateblue;
+  text-decoration: none;
 }
 
 h1,
 h2 {
-  font-family: "Abril Fatface", Arial, Helvetica, sans-serif;
+  font-family: "Abril Fatface", sans-serif;
   color: slateblue;
   letter-spacing: 1px;
 }
 
 #name {
-  font-size: 280%;
+  font-size: 300%;
   text-decoration: underline slateblue;
-  padding: 10px 10px;
 }
 
-#nav {
+#nav-menu {
+  font-size: 110%;
+  letter-spacing: 4px;
   list-style: none;
-  padding-right: 10px;
-  display: flex;
-  flex-direction: column;
-  padding-top: 5px;
+}
+
+#nav-menu > li {
+  padding: 5px 5px;
 }
 
 .active {
@@ -56,8 +68,35 @@ h2 {
 main {
   background-color: lightgreen;
   flex: 1 0 auto;
+  margin-top: 150px;
 }
 
 footer {
   background-color: lightcoral;
+}
+
+@media screen and (min-width: 768px) {
+  header {
+    display: flex;
+    justify-content: space-around;
+  }
+
+  #name {
+    font-size: 400%;
+  }
+
+  nav {
+    box-shadow: none;
+    width: fit-content;
+  }
+
+  #nav-menu {
+    display: flex;
+
+    letter-spacing: 2px;
+  }
+
+  main {
+    margin-top: 90px;
+  }
 }
