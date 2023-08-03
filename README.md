@@ -122,9 +122,9 @@ As a Frequent User,
 1. From the Github profile, navigate to the repository that is to be cloned.
 2. Click the green 'Code' button in the center right of the page.
 3. Navigate to the HTTPS tab and copy the URL.
-4. In your prefered coding environment
-5.
-6.
+4. In your prefered coding environment, go to source control usually found on the left  side bar
+5. Select clone repository and paste url into search bar.
+6. The repository should open ready to be edited.
 
 ## Credits
 

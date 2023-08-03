@@ -14,26 +14,26 @@ body {
   flex-direction: column;
   min-height: 100vh;
   /* maybe change */
-  color: darkslategrey;
+  color: #3a3b3b;
 }
 
 h1,
 h2 {
   font-family: "Abril Fatface", sans-serif;
-  color: slateblue;
+  color: #d6809c;
   letter-spacing: 1px;
 }
 
 /* Header container */
 header {
   /* header styling */
-  background-color: goldenrod;
+  background-color: #927397;
   padding: 0 10px;
   /* for fixing header to page, adding box shadow  */
   position: fixed;
   width: 100%;
   z-index: 99;
-  box-shadow: 0 5px 5px 0 slateblue;
+  box-shadow: 0 5px 5px 0 #bdcac5;
   /* For positioning name and nav bar in header */
   display: flex;
   justify-content: space-between;
@@ -41,13 +41,13 @@ header {
 }
 
 header a {
-  color: slateblue;
+  color: #e7cbae;
   text-decoration: none;
 }
 
 #name {
-  font-size: 300%;
-  text-decoration: underline slateblue;
+  font-size: 350%;
+  text-decoration: underline #bdcac5;
 }
 
 #nav-menu {
@@ -61,8 +61,8 @@ header a {
 }
 
 .active {
-  border-top: 2px solid slateblue;
-  border-bottom: 2px solid slateblue;
+  border-top: 2px solid #bdcac5;
+  border-bottom: 2px solid #bdcac5;
 }
 
 main {
@@ -78,7 +78,8 @@ main {
 }
 
 #hero-text {
-  font-size: 130%;
+  color: #965d30;
+  font-size: 110%;
   position: absolute;
   right: 0;
   margin-top: 250px;
@@ -86,7 +87,7 @@ main {
 }
 
 footer {
-  background-color: goldenrod;
+  background-color: #927397;
 }
 
 /* Footer */
@@ -101,7 +102,50 @@ footer {
 #socials i {
   font-size: 160%;
   padding: 5%;
-  color: slateblue;
+  color: #e7cbae;
+}
+
+#book-class {
+  background-color: #eddde2;
+}
+
+#timetable {
+  padding-top: 50px;
+}
+
+.book-h2 {
+  text-decoration: underline;
+}
+
+/* Style the timetable table */
+table {
+  width: 100%;
+  border-collapse: separate;
+}
+
+table,
+th,
+td {
+  border: 1px solid;
+}
+
+td {
+  text-align: center;
+}
+
+/* Style the Google Map */
+#google-map {
+  width: 100%;
+  margin-top: 47px;
+  border: none;
+  display: flex;
+  flex-direction: column;
+}
+
+/* Adjust the map iframe to fit the container */
+#google-map iframe {
+  width: 100%;
+  height: 400px;
 }
 
 @media screen and (min-width: 768px) {
@@ -143,6 +187,6 @@ footer {
     margin: 0 1em;
   }
   #nav-menu a:hover {
-    border-bottom: 2px solid slateblue;
+    border-bottom: 2px solid #bdcac5;
   }
 }
