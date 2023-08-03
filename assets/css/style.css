@@ -61,7 +61,6 @@ header a {
 }
 
 .active {
-  border-top: 2px solid #bdcac5;
   border-bottom: 2px solid #bdcac5;
 }
 
