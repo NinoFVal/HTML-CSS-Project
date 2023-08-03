@@ -113,20 +113,16 @@ footer {
   padding-top: 50px;
 }
 
-.book-h2 {
-  text-decoration: underline;
-}
-
 /* Style the timetable table */
 table {
   width: 100%;
   border-collapse: separate;
 }
 
-table,
 th,
 td {
   border: 1px solid;
+  border-color: #bdcac5;
 }
 
 td {
