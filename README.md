@@ -103,17 +103,36 @@ As a Frequent User,
 
 ## Deployment
 
-- The site was deployed to GitHub pages. The steps to deploy are as follows:
-    In the GitHub repository, navigate to the Settings tab.
-    On the left hand side bar select Pages.
-    When in Pages navigate to Build and Deployment,
-    select 'Deploy from a branch' under Source then 'Main' and 'Root' under Branch
-    Click save and refresh the page. It may take a few minutes for the live page to deploy.
+### Github Pages
 
-- The live link can be found here - <https://ninofval.github.io/HTML-CSS-Project/>
+- The site was deployed to GitHub pages. The steps to deploy are as follows
+
+1. In the GitHub repository, navigate to the Settings tab.
+2. On the left hand side bar select Pages.
+3. When in Pages navigate to Build and Deployment.
+4. Select 'Deploy from a branch' under Source then 'Main' and 'Root' under Branch
+5. Click save and refresh the page. It may take a few minutes for the live page to deploy.
+
+- The live link can be found here - <https://ninofval.github.io/HTML-CSS-Project/>.
+
+### Clone Repository
+
+- This repository can be cloned on Github. The steps to Clone are as follows
+
+1. From the Github profile, navigate to the repository that is to be cloned.
+2. Click the green 'Code' button in the center right of the page.
+3. Navigate to the HTTPS tab and copy the URL.
+4. In your prefered coding environment
+5.
+6.
 
 ## Credits
 
 ### Site Content
 
+- Header and Footer: inspiration taken from Love Running project.
+- Site content created in ChatGPT.
+
 ### Images
+
+- Hero Image - Photo by Pixabay: <https://www.pexels.com/photo/stacked-of-stones-outdoors-289586/>.
