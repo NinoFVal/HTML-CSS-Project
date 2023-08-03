@@ -8,25 +8,13 @@ Yup Yoga is hoping to a bring a wide variety of yoga classes to people who are l
 
 #### First Time Visitor Goals
 
-As a First Time Visitor,
-
-As a First Time Visitor,
-
-As a First Time Visitor,
+- First Time Visitor,
 
 #### Returning Visitor Goals
 
-As a Returning Visitor,
-
-As a Returning Visitor,
-
-As a Returning Visitor,
+- Returning Visitor,
 
 #### Frequent User Goals
-
-As a Frequent User,
-
-As a Frequent User,
 
 As a Frequent User,
 
@@ -38,9 +26,7 @@ As a Frequent User,
 
 #### Colour Scheme
 
-##### The Colors chosen for this website are
-
-- Found online was a website colour scheme called Boho Purple. It is a perfect chice for a yoga website.
+- Found online this colour scheme is called Boho Purple. It is a perfect choice for a yoga website. Website credited in credits.
 
 ![Site Colour Scheme](media/boho-purple.jpg)
 
@@ -75,7 +61,7 @@ As a Frequent User,
 
 #### Yoga Styles page
 
-- The yoga styles page will introduce user to different yoga practices.
+- The yoga styles page will introduce the user to different yoga practices.
 - This will inform users on which class they should take when they come to book a class with Yup Yoga.
 
 #### Class Schedule
@@ -88,16 +74,37 @@ As a Frequent User,
 - The map feature on the class schedule page will shown the exact location for yoga classes.
 - Interacting with this map will give directions to the class location through google maps.
 
+### Features Left to Implement
+
 #### Book a Class Link
 
 - The book a class link on the class schedule page will direct users to a third party booking site.
 - This will provide users with the peace of mind that any payment for booking will be taken securely.
 
+#### Inquiry Form
+
+- This form will be for any questions a user may want to ask the site owner in regards to yoga or joining a class.
+
 ## Testing
+
+### Functionality Testing
+
+-
+
+### Compatibility Testing
+
+-
+
+### Performance Testing
 
 ### Validator Testing
 
-### Unfixed bugs
+- HTML
+  - No errors were returned when passing through the official [W3C validator]
+- CSS
+  - No errors were found when passing through the official [(Jigsaw) validator]
+
+### Unfixed Bugs
 
 ## Deployment
 
@@ -130,6 +137,8 @@ As a Frequent User,
 
 - Header and Footer: inspiration taken from Love Running project.
 - Teahcer bio created in ChatGPT.
+- Information about yoga generated from ChatGPT
+- Colour scheme found here: <https://susannerieker.com/10-color-schemes-for-your-wellness-or-yoga-website/>
 
 ### Images
 
