@@ -31,6 +31,7 @@ As a Frequent User,
 As a Frequent User,
 
 ### Website Layout
+
 - for wire frames and responsive
 
 ### Design
@@ -41,7 +42,7 @@ As a Frequent User,
 
 - Found online was a website colour scheme called Boho Purple. It is a perfect chice for a yoga website.
 
-
+![Site Colour Scheme](media/boho-purple.jpg)
 
 #### Typography
 
