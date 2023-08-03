@@ -50,8 +50,6 @@ As a Frequent User,
 - Poppins was chosen for the content of the page because of its sharp lines and its pairing to Abril Fatface.
 - san-seraf is the fallback font incase either of the main fonts fail to be imported from Google fonts.
 
-#### Imagery
-
 ## Features
 
 ### Existing Features
@@ -64,7 +62,7 @@ As a Frequent User,
 
 #### The Landing page
 
-- The landing page will feature an image of a person practising yoga with a quote about yoga to show users at first glance what this site is about.
+- The landing page will feature a hero image that will promote calmness and yoga inspired quote to show users at first glance what this site is about.
 
 #### The Footer
 
@@ -131,7 +129,7 @@ As a Frequent User,
 ### Site Content
 
 - Header and Footer: inspiration taken from Love Running project.
-- Site content created in ChatGPT.
+- Teahcer bio created in ChatGPT.
 
 ### Images
 
