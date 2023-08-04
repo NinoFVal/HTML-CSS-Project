@@ -67,18 +67,17 @@ header a {
 nav {
   position: absolute;
   background-color: #927397;
-  width: 30%;
+  width: 40%;
   right: 0;
-  padding: 0, 1rem;
   box-shadow: -4px 4px 3px 0 #bdcac5;
   display: none;
   top: 100%;
+  text-align: center;
 }
 
 /* Nav toggle */
 #nav-toggle:checked ~ nav {
   display: block;
-  text-align: center;
 }
 
 #nav-toggle {
