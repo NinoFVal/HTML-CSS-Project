@@ -37,7 +37,7 @@ header {
   /* For positioning name and nav bar in header */
   display: flex;
   justify-content: space-between;
-  align-items: center;
+  align-items: baseline;
 }
 
 header a {
@@ -69,16 +69,33 @@ header a {
 nav {
   position: absolute;
   background-color: #927397;
-  width: 100%;
-  left: 0;
+  width: 50%;
+  right: 0;
   padding: 0, 1rem;
-  box-shadow: 0 3px 5px 0 #bdcac5;
+  box-shadow: 0 3px 3px 0 #bdcac5;
   display: none;
+  top: 100%;
+}
+
+/* Nav toggle */
+#nav-toggle:checked ~ nav {
+  display: block;
+  text-align: right;
+}
+
+#nav-toggle {
+  display: none;
+}
+
+.nav-toggle-label {
+  color: #e7cbae;
+  font-size: 20px;
+  padding-right: 15px;
 }
 
 main {
   flex: 1 0 auto;
-  margin-top: 130px;
+  margin-top: 33px;
 }
 
 #hero {
