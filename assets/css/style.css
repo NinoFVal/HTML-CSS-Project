@@ -1,3 +1,4 @@
+/* Google font import */
 @import url("https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Poppins&display=swap");
 
 /* Wildcard  */
@@ -6,14 +7,14 @@
   padding: 0;
   box-sizing: border-box;
 }
-/* base css stying */
+
+/* Set base styling across website */
 body {
   font-family: "Poppins", sans-serif;
   /* To postion header, main and footer */
   display: flex;
   flex-direction: column;
   min-height: 100vh;
-  /* maybe change */
   color: #3a3b3b;
 }
 
@@ -23,12 +24,12 @@ h1 {
   letter-spacing: 1px;
 }
 
-/* Header container */
+/* Header styling */
 header {
   /* header styling */
   background-color: #927397;
   padding: 0 10px;
-  /* for fixing header to page, adding box shadow  */
+  /* For fixing header to page, adding box shadow  */
   position: fixed;
   width: 100%;
   z-index: 99;
@@ -43,12 +44,12 @@ header a {
   color: #e7cbae;
   text-decoration: none;
 }
-
+/* Website name */
 #name {
   font-size: 150%;
   text-decoration: underline #bdcac5 2px;
 }
-
+/* Navbar */
 #nav-menu {
   letter-spacing: 3px;
   list-style: none;
@@ -57,13 +58,12 @@ header a {
 #nav-menu > li {
   padding: 5px 5px;
 }
-
+/* underlines current page */
 .active {
   border-bottom: 2px solid #bdcac5;
 }
 
 /* Dropdown Menu  */
-
 nav {
   position: absolute;
   background-color: #927397;
@@ -96,6 +96,7 @@ main {
   margin-top: 33px;
 }
 
+/* Hero image */
 #hero {
   width: 100%;
   height: 100vh;
@@ -103,6 +104,7 @@ main {
   position: relative;
 }
 
+/* Text on Landing Page */
 #hero-text {
   color: #927397;
   position: absolute;
@@ -114,11 +116,10 @@ main {
   text-underline-offset: 2px;
 }
 
+/* Footer Styling */
 footer {
   background-color: #927397;
 }
-
-/* Footer */
 #socials {
   text-align: center;
   padding: 20px 0;
@@ -133,6 +134,7 @@ footer {
   color: #e7cbae;
 }
 
+/* About me page stying */
 #bio {
   background-color: #eddde2;
   display: flex;
@@ -153,6 +155,7 @@ footer {
   text-align: left;
 }
 
+/* Yoga styles page styling */
 #yoga {
   display: flex;
   flex-direction: column;
@@ -188,6 +191,7 @@ h5 {
   text-indent: 30px;
 }
 
+/* Book a Class page styling */
 #book-class {
   background-color: #eddde2;
   display: flex;
@@ -196,20 +200,20 @@ h5 {
 }
 
 .book-h3 {
+  text-align: center;
   padding-top: 10px;
   color: #d6809c;
-  padding-left: 10px;
   font-size: 20px;
   text-decoration: underline #bdcac5 2px;
 }
 
+/* Timetable Styling */
 #timetable {
   width: 100%;
   overflow-x: auto;
   padding-bottom: 10px;
 }
 
-/* Style the timetable table */
 table {
   padding: 0 2px;
   border-collapse: separate;
@@ -227,11 +231,11 @@ td {
   text-align: center;
 }
 
-.booking a {
-  padding-left: 10px;
+#booking {
+  text-align: center;
 }
 
-/* Style the Google Map */
+/* Google map styling */
 #google-map {
   width: 100%;
   height: 100%;
@@ -240,12 +244,12 @@ td {
   flex-direction: column;
 }
 
-/* Adjust the map iframe to fit the container */
+/* Fits iframe to page width */
 #google-map iframe {
   width: 100%;
 }
 
-/* Media query for screens of 768px and larger */
+/* Media query for screens of Tablets and Small Screens */
 @media screen and (min-width: 768px) {
   header {
     align-items: center;
@@ -283,7 +287,7 @@ td {
   }
 
   #bio {
-    padding-top: 35px;
+    padding-top: 45px;
   }
 
   #yoga {
@@ -295,8 +299,17 @@ td {
   }
 }
 
+/* Media query for screens of 992px (Larger tablets and pc screens */
 @media screen and (min-width: 992px) {
   #nav-menu a:hover {
     border-bottom: 2px solid #bdcac5;
+  }
+
+  #hero-text {
+    top: 29%;
+  }
+
+  #book-class {
+    padding-top: 40px;
   }
 }
