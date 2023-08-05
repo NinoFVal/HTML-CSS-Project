@@ -69,6 +69,7 @@ nav {
   background-color: #927397;
   width: 40%;
   right: 0;
+  border-radius: 0 0 0 10px;
   box-shadow: -4px 4px 3px 0 #bdcac5;
   display: none;
   top: 100%;
@@ -196,7 +197,7 @@ h5 {
 .book-h3 {
   color: #d6809c;
   padding-left: 10px;
-  padding-bottom: 10px;
+  padding-bottom: 5px;
   font-size: 20px;
   text-decoration: underline #bdcac5 2px;
 }
@@ -223,6 +224,10 @@ td {
 
 td {
   text-align: center;
+}
+
+.booking a {
+  padding-left: 10px;
 }
 
 /* Style the Google Map */
