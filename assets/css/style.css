@@ -303,6 +303,11 @@ td {
 
 /* Media query for screens of 992px (Larger tablets and pc screens */
 @media screen and (min-width: 992px) {
+  #hero-text {
+    font-size: 150%;
+    top: 15%;
+  }
+
   #nav-menu a:hover {
     border-bottom: 2px solid #bdcac5;
   }
