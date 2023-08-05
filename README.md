@@ -25,8 +25,13 @@ Yup Yoga is hoping to a bring a wide variety of yoga classes to people who are l
 - As a frequent user I want to see what time classes are held and on what days.
 
 ### Website Layout
+- Wireframes created in balsamic, used to plan website design
+  
+- Mobile Wireframe
+ ![Wire Frames for Mobile design](media/mobile%20wireframes.jpg)
 
-- for wire frames and responsive
+- Desktop Wireframe
+ ![Wire Frames for Desktop design](https://github.com/NinoFVal/HTML-CSS-Project/blob/main/media/desktop%20wireframes.jpg)
 
 ### Design
 
@@ -34,7 +39,7 @@ Yup Yoga is hoping to a bring a wide variety of yoga classes to people who are l
 
 - Found online this colour scheme is called Boho Purple. It is a perfect choice for a yoga website. Website credited in credits.
 
-![Site Colour Scheme](media/boho-purple.jpg)
+![Site Colour Scheme](https://github.com/NinoFVal/HTML-CSS-Project/blob/main/media/boho-purple.jpg)
 
 #### Typography
 
@@ -52,7 +57,7 @@ Yup Yoga is hoping to a bring a wide variety of yoga classes to people who are l
 ### Frameworks, Libraries & Programs Used
 
 - Google Fonts:<https://fonts.google.com/>
-- Google fonts were used to import a custom font-family containing Abril Fatface and      Poppins into the style.css file which is used on all pages throughout the project.
+- Google fonts were used to import a custom font-family containing Abril Fatface and Poppins into the style.css file which is used on all pages throughout the project.
 
 - Font Awesome:<https://fontawesome.com/>
 - Font Awesome was used on all pages throughout the website to add icons for aesthetic and UX purposes.
@@ -64,7 +69,7 @@ Yup Yoga is hoping to a bring a wide variety of yoga classes to people who are l
 - GitHub is used to store the projects code after being pushed from Git.
 
 - Balsamiq <https://balsamiq.com/>
-- Balsamiq was used to create the during the design process.
+- Balsamiq was used to create wireframes during the design process.
 
 ### Existing Features
 
@@ -117,21 +122,31 @@ Yup Yoga is hoping to a bring a wide variety of yoga classes to people who are l
 
 ### Functionality Testing
 
--
+- Mozilla Firefox web developer tools was used during the development of this website.
 
 ### Compatibility Testing
 
--
+- Compatibilty was tested using responsive design mode on Mozilla Firefox, across devices such as iPhone5/SE, iPhone 12/13 Pro Max, Samsung s20 Ultra, iPad Pro, Google Nexus 10 and Laptop with HiDPI screen.
+
+- Physically, I tested the site on a Huawei Redmi 12 Pro+, an Acer Swift 3 Laptop with a 15in Screen and a Larger 25in Asus Monitor
+
+- Testing was also carried out by friends and family with positve feedback and constructive critisism.
 
 ### Performance Testing
 
+- Performace was tested using Lighthouse extension for Mozilla Firefox.
+
+- [Lighthouse report]
+  (https://github.com/NinoFVal/HTML-CSS-Project/blob/main/media/lighthouse%20report.jpg)
+
+
 ### Validator Testing
 
-- HTML and CSS code were put through the validators below. errors that occured were corrected.
-
+- Every HTML page was put through the W3C validator. Errors that occured were corrected.
 - HTML
   - [W3C validator] <https://validator.w3.org/>
-
+     
+- The CSS code was put through CSS validator Jigsaw. No errors were found in the report.
 - CSS
   - [(Jigsaw) validator] <https://jigsaw.w3.org/css-validator/>
 
@@ -170,11 +185,13 @@ Yup Yoga is hoping to a bring a wide variety of yoga classes to people who are l
 
 ### Site Content
 
-- Header dropdown nav menu code was taken from the love running project. <https://github.com/Code-Institute-Solutions/love-running-v3/blob/main/3.7-creating-the-footer/assets/css/style.css>
+- Header dropdown nav menu code was taken from the love running project.
+- <https://github.com/Code-Institute-Solutions/love-running-v3/tree/main/3.5b-toggling-a-dropdown-menu>
 
 - Footer: inspiration taken from Love Running project.
+- <https://github.com/Code-Institute-Solutions/love-running-v3/tree/main/3.7-creating-the-footer>
 
-- Teahcer bio created in ChatGPT.
+- Teacher bio created in ChatGPT.
 
 - Information about yoga generated from ChatGPT
 
@@ -186,8 +203,3 @@ Yup Yoga is hoping to a bring a wide variety of yoga classes to people who are l
 
 - Tinypng was used to optimize the hero image <https://tinypng.com/>
 
-### Acknowledgements
-
-- My Mentor for continuous helpful feedback.
-
-- Tutor support at Code Institute for their support.
