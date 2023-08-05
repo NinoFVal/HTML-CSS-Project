@@ -38,8 +38,8 @@ Yup Yoga is hoping to a bring a wide variety of yoga classes to people who are l
 
 #### Typography
 
-- Abril Fatface is the heading font for this website. it was choen for its decorative and casual style, while still being easily ledgeable.
-- Poppins was chosen for the content of the page because of its sharp lines and its pairing to Abril Fatface.
+- Rowdies is the heading font for this website. it was chosen for its straight lines and sharp edges.
+- Poppins was chosen for the content of the page because of its sharp lines and its pairing to Rowdies.
 - san-seraf is the fallback font incase either of the main fonts fail to be imported from Google fonts.
 
 ## Features
@@ -183,6 +183,8 @@ Yup Yoga is hoping to a bring a wide variety of yoga classes to people who are l
 ### Images
 
 - Hero Image - Photo by Pixabay: <https://www.pexels.com/photo/stacked-of-stones-outdoors-289586/>.
+
+- Tinypng was used to optimize the hero image <https://tinypng.com/>
 
 ### Acknowledgements
 
