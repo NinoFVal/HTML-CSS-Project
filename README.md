@@ -10,7 +10,7 @@ Yup Yoga is hoping to a bring a wide variety of yoga classes to people who are l
 
 #### First Time Visitor Goals
 
-- As a first time user I want learn more about yoga and wether it would suit my lifestlyle.
+- As a first time user I want learn more about yoga and whether it would suit my lifestyle.
 
 - As a first time user I want to learn more about the yoga teacher holding these classes.
 
@@ -47,7 +47,7 @@ Yup Yoga is hoping to a bring a wide variety of yoga classes to people who are l
 
 - Rowdies is the heading font for this website. it was chosen for its straight lines and sharp edges.
 - Poppins was chosen for the content of the page because of its sharp lines and its pairing to Rowdies.
-- san-seraf is the fallback font incase either of the main fonts fail to be imported from Google fonts.
+- san-seraf is the fallback font in case either of the main fonts fail to be imported from Google fonts.
 
 ## Features
 
@@ -128,22 +128,22 @@ Yup Yoga is hoping to a bring a wide variety of yoga classes to people who are l
 
 ### Compatibility Testing
 
-- Compatibilty was tested using responsive design mode on Mozilla Firefox, across devices such as iPhone5/SE, iPhone 12/13 Pro Max, Samsung s20 Ultra, iPad Pro, Google Nexus 10 and Laptop with HiDPI screen.
+- Compatibility was tested using responsive design mode on Mozilla Firefox, across devices such as iPhone5/SE, iPhone 12/13 Pro Max, Samsung s20 Ultra, iPad Pro, Google Nexus 10 and Laptop with Hi DPI screen.
 
 - Physically, I tested the site on a Huawei Redmi 12 Pro+, an Acer Swift 3 Laptop with a 15in Screen and a Larger 25in Asus Monitor
 
-- Testing was also carried out by friends and family with positve feedback and constructive critisism.
+- Testing was also carried out by friends and family with positive feedback and constructive criticism.
 
 ### Performance Testing
 
-- Performace was tested using Lighthouse extension for Mozilla Firefox.
+- Performane was tested using Lighthouse extension for Mozilla Firefox.
 
 ![Lighthouse report](https://github.com/NinoFVal/HTML-CSS-Project/blob/main/media/lighthouse%20report.jpg)
 
 
 ### Validator Testing
 
-- Every HTML page was put through the W3C validator. Errors that occured were corrected.
+- Every HTML page was put through the W3C validator. Errors that occurred were corrected.
 - HTML
   - [W3C validator] <https://validator.w3.org/>
   ![HTML Validator results](https://github.com/NinoFVal/HTML-CSS-Project/blob/main/media/html%20validator.png)
@@ -176,8 +176,8 @@ Yup Yoga is hoping to a bring a wide variety of yoga classes to people who are l
 1. From the Github profile, navigate to the repository that is to be cloned.
 2. Click the green 'Code' button in the center right of the page.
 3. Navigate to the HTTPS tab and copy the URL.
-4. In your prefered coding environment, go to source control usually found on the left  side bar
-5. Select clone repository and paste url into search bar.
+4. In your preferred coding environment, go to source control usually found on the left  side bar
+5. Select clone repository and paste URL into search bar.
 6. The repository should open ready to be edited.
 
 ## Credits
@@ -188,7 +188,7 @@ Yup Yoga is hoping to a bring a wide variety of yoga classes to people who are l
 
 ### Site Content
 
-- Header dropdown nav menu code was taken from the love running project.
+- Header drop-down nav menu code was taken from the love running project.
 - <https://github.com/Code-Institute-Solutions/love-running-v3/tree/main/3.5b-toggling-a-dropdown-menu>
 
 - Footer: inspiration taken from Love Running project.
