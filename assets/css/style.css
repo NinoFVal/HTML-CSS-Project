@@ -67,7 +67,7 @@ header a {
 nav {
   position: absolute;
   background-color: #927397;
-  width: 40%;
+  width: 50%;
   right: 0;
   border-radius: 0 0 0 10px;
   box-shadow: -4px 4px 3px 0 #bdcac5;
@@ -106,13 +106,13 @@ main {
 
 /* Text on Landing Page */
 #hero-text {
-  color: #927397;
+  color: #d6809c;
   position: absolute;
   font-size: 80%;
   text-align: right;
   top: 27%;
   right: 5%;
-  text-decoration: underline #927397 2px;
+  text-decoration: underline #bdcac5 3px;
   text-underline-offset: 2px;
 }
 
