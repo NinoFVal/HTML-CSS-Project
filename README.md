@@ -146,7 +146,7 @@ Yup Yoga is hoping to a bring a wide variety of yoga classes to people who are l
 - Every HTML page was put through the W3C validator. Errors that occured were corrected.
 - HTML
   - [W3C validator] <https://validator.w3.org/>
-  ![HTML Validator results](https://github.com/NinoFVal/HTML-CSS-Project/blob/main/media/html%20validator.jpg)
+  ![HTML Validator results](https://github.com/NinoFVal/HTML-CSS-Project/blob/main/media/html%20validator.png)
      
 - The CSS code was put through CSS validator Jigsaw. No errors were found in the report.
 - CSS
