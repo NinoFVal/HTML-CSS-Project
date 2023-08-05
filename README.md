@@ -2,6 +2,8 @@
 
 Yup Yoga is hoping to a bring a wide variety of yoga classes to people who are looking to begin practising yoga. It will also be targeted at people who want to challenge themselves and add a new way of exercising to their fitness journey. The Yup Yoga website will be a way for people learn about the different yoga styles and also a place they can book classes.
 
+![amiresponsive image](https://github.com/NinoFVal/HTML-CSS-Project/blob/main/media/amiresponsive.jpg)
+
 ## User Experience (UX)
 
 ### User stories
@@ -28,7 +30,7 @@ Yup Yoga is hoping to a bring a wide variety of yoga classes to people who are l
 - Wireframes created in balsamic, used to plan website design
   
 - Mobile Wireframe
- ![Wire Frames for Mobile design](media/mobile%20wireframes.jpg)
+ ![Wire Frames for Mobile design](https://github.com/NinoFVal/HTML-CSS-Project/blob/main/media/mobile%20wireframes.jpg)
 
 - Desktop Wireframe
  ![Wire Frames for Desktop design](https://github.com/NinoFVal/HTML-CSS-Project/blob/main/media/desktop%20wireframes.jpg)
@@ -122,7 +124,7 @@ Yup Yoga is hoping to a bring a wide variety of yoga classes to people who are l
 
 ### Functionality Testing
 
-- Mozilla Firefox web developer tools was used during the development of this website.
+- Mozilla Firefox web developer tools was used during the development of this website. The site was tested different browsers including Mozilla Firefox, Google Chrome and Safari
 
 ### Compatibility Testing
 
@@ -136,8 +138,7 @@ Yup Yoga is hoping to a bring a wide variety of yoga classes to people who are l
 
 - Performace was tested using Lighthouse extension for Mozilla Firefox.
 
-- [Lighthouse report]
-  (https://github.com/NinoFVal/HTML-CSS-Project/blob/main/media/lighthouse%20report.jpg)
+![Lighthouse report](https://github.com/NinoFVal/HTML-CSS-Project/blob/main/media/lighthouse%20report.jpg)
 
 
 ### Validator Testing
@@ -145,10 +146,12 @@ Yup Yoga is hoping to a bring a wide variety of yoga classes to people who are l
 - Every HTML page was put through the W3C validator. Errors that occured were corrected.
 - HTML
   - [W3C validator] <https://validator.w3.org/>
+  ![HTML Validator results](https://github.com/NinoFVal/HTML-CSS-Project/blob/main/media/html%20validator.jpg)
      
 - The CSS code was put through CSS validator Jigsaw. No errors were found in the report.
 - CSS
   - [(Jigsaw) validator] <https://jigsaw.w3.org/css-validator/>
+  ![CSS Validator results](https://github.com/NinoFVal/HTML-CSS-Project/blob/main/media/css%20validator.jpg)
 
 ### Unfixed Bugs
 
