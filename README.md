@@ -44,6 +44,28 @@ Yup Yoga is hoping to a bring a wide variety of yoga classes to people who are l
 
 ## Features
 
+### Languages Used
+
+- [HTML5](https://en.wikipedia.org/wiki/HTML5)
+- [CSS3](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
+
+### Frameworks, Libraries & Programs Used
+
+- Google Fonts:<https://fonts.google.com/>
+- Google fonts were used to import a custom font-family containing Abril Fatface and      Poppins into the style.css file which is used on all pages throughout the project.
+
+- Font Awesome:<https://fontawesome.com/>
+- Font Awesome was used on all pages throughout the website to add icons for aesthetic and UX purposes.
+
+- Git <https://git-scm.com/>
+- Git was used for version control by utilizing the Gitpod terminal to commit to Git and Push to GitHub.
+
+- GitHub <https://github.com/>
+- GitHub is used to store the projects code after being pushed from Git.
+
+- Balsamiq <https://balsamiq.com/>
+- Balsamiq was used to create the during the design process.
+
 ### Existing Features
 
 #### Navigation Bar
@@ -142,7 +164,7 @@ Yup Yoga is hoping to a bring a wide variety of yoga classes to people who are l
 
 ## Credits
 
-### Web resources 
+### Web Resources
 
 - W3Schools was an invaluable asset during development. <https://www.w3schools.com/>
 
@@ -161,3 +183,9 @@ Yup Yoga is hoping to a bring a wide variety of yoga classes to people who are l
 ### Images
 
 - Hero Image - Photo by Pixabay: <https://www.pexels.com/photo/stacked-of-stones-outdoors-289586/>.
+
+### Acknowledgements
+
+- My Mentor for continuous helpful feedback.
+
+- Tutor support at Code Institute for their support.
