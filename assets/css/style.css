@@ -110,7 +110,7 @@ main {
   position: absolute;
   font-size: 80%;
   text-align: right;
-  top: 30%;
+  top: 27%;
   right: 5%;
   text-decoration: underline #927397 2px;
   text-underline-offset: 2px;
@@ -284,6 +284,7 @@ td {
 
   #hero-text {
     font-size: 150%;
+    top: 24%;
   }
 
   #bio {
@@ -303,10 +304,6 @@ td {
 @media screen and (min-width: 992px) {
   #nav-menu a:hover {
     border-bottom: 2px solid #bdcac5;
-  }
-
-  #hero-text {
-    top: 29%;
   }
 
   #book-class {
