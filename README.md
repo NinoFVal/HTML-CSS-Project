@@ -8,15 +8,21 @@ Yup Yoga is hoping to a bring a wide variety of yoga classes to people who are l
 
 #### First Time Visitor Goals
 
-- First Time Visitor,
+- As a first time user I want learn more about yoga and wether it would suit my lifestlyle.
+
+- As a first time user I want to learn more about the yoga teacher holding these classes.
+
+- As a first time user I want to be able to contact the yoga teacher with any questions I may have.
 
 #### Returning Visitor Goals
 
-- Returning Visitor,
+- As a returning user want the option to book a yoga class if I am interested in joining.
+
+- As a returning user I want to know where the yoga classes are being held.
 
 #### Frequent User Goals
 
-As a Frequent User,
+- As a frequent user I want to see what time classes are held and on what days.
 
 ### Website Layout
 
@@ -74,12 +80,12 @@ As a Frequent User,
 - The map feature on the class schedule page will shown the exact location for yoga classes.
 - Interacting with this map will give directions to the class location through google maps.
 
-### Features Left to Implement
-
 #### Book a Class Link
 
 - The book a class link on the class schedule page will direct users to a third party booking site.
 - This will provide users with the peace of mind that any payment for booking will be taken securely.
+
+### Features Left to Implement
 
 #### Inquiry Form
 
@@ -99,10 +105,13 @@ As a Frequent User,
 
 ### Validator Testing
 
+- HTML and CSS code were put through the validators below. errors that occured were corrected.
+
 - HTML
-  - No errors were returned when passing through the official [W3C validator]
+  - [W3C validator] <https://validator.w3.org/>
+
 - CSS
-  - No errors were found when passing through the official [(Jigsaw) validator]
+  - [(Jigsaw) validator] <https://jigsaw.w3.org/css-validator/>
 
 ### Unfixed Bugs
 
@@ -133,11 +142,20 @@ As a Frequent User,
 
 ## Credits
 
+### Web resources 
+
+- W3Schools was an invaluable asset during development. <https://www.w3schools.com/>
+
 ### Site Content
 
-- Header and Footer: inspiration taken from Love Running project.
+- Header dropdown nav menu code was taken from the love running project. <https://github.com/Code-Institute-Solutions/love-running-v3/blob/main/3.7-creating-the-footer/assets/css/style.css>
+
+- Footer: inspiration taken from Love Running project.
+
 - Teahcer bio created in ChatGPT.
+
 - Information about yoga generated from ChatGPT
+
 - Colour scheme found here: <https://susannerieker.com/10-color-schemes-for-your-wellness-or-yoga-website/>
 
 ### Images
