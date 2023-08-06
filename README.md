@@ -1,5 +1,6 @@
 # Yup Yoga
 
+Yup Yoga is a newly establish Yoga teaching business based in Tallaght, Dublin.
 Yup Yoga is hoping to a bring a wide variety of yoga classes to people who are looking to begin practising yoga. It will also be targeted at people who want to challenge themselves and add a new way of exercising to their fitness journey. The Yup Yoga website will be a way for people learn about the different yoga styles and also a place they can book classes.
 
 ![amiresponsive image](https://github.com/NinoFVal/HTML-CSS-Project/blob/main/media/amiresponsive.jpg)
@@ -115,11 +116,23 @@ Yup Yoga is hoping to a bring a wide variety of yoga classes to people who are l
 - The book a class link on the class schedule page will direct users to a third party booking site.
 - This will provide users with the peace of mind that any payment for booking will be taken securely.
 
-### Features Left to Implement
-
 #### Inquiry Form
 
 - This form will be for any questions a user may want to ask the site owner in regards to yoga or joining a class.
+
+### Features Left to Implement
+
+#### Gallery Page
+
+- A gallery page, with pictures take of held classes could be added.
+
+#### Testimonials and Review section
+
+- A testimonial and review section could be added. This would be linked to google reviews.
+
+#### Blog and Vlog posting
+
+- A page used by the Yoga teacher to share thier thought and post videos of techniques.
 
 ## Testing
 
