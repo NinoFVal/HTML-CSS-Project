@@ -248,6 +248,7 @@ td {
 /* Fits iframe to page width */
 #google-map iframe {
   width: 100%;
+  padding: 0 5px;
 }
 
 /* Form Styling */
@@ -330,6 +331,10 @@ form > button {
   #book-class {
     padding-top: 30px;
   }
+
+  form {
+    width: 50%;
+  }
 }
 
 /* Media query for screens of 992px (Larger tablets and pc screens */
@@ -345,5 +350,9 @@ form > button {
 
   #book-class {
     padding-top: 40px;
+  }
+
+  form {
+    width: 33%;
   }
 }
