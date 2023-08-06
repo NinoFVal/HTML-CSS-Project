@@ -27,6 +27,7 @@ Yup Yoga is hoping to a bring a wide variety of yoga classes to people who are l
 - As a frequent user I want to see what time classes are held and on what days.
 
 ### Website Layout
+
 - Wireframes created in balsamic, used to plan website design
   
 - Mobile Wireframe
@@ -136,21 +137,20 @@ Yup Yoga is hoping to a bring a wide variety of yoga classes to people who are l
 
 ### Performance Testing
 
-- Performane was tested using Lighthouse extension for Mozilla Firefox.
+- Performance was tested using Lighthouse extension for Mozilla Firefox.
 
 ![Lighthouse report](https://github.com/NinoFVal/HTML-CSS-Project/blob/main/media/lighthouse%20report.jpg)
-
 
 ### Validator Testing
 
 - Every HTML page was put through the W3C validator. Errors that occurred were corrected.
 - HTML
-  - [W3C validator] <https://validator.w3.org/>
+  [W3C validator] <https://validator.w3.org/>
   ![HTML Validator results](https://github.com/NinoFVal/HTML-CSS-Project/blob/main/media/html%20validator.png)
-     
+
 - The CSS code was put through CSS validator Jigsaw. No errors were found in the report.
 - CSS
-  - [(Jigsaw) validator] <https://jigsaw.w3.org/css-validator/>
+  [(Jigsaw) validator] <https://jigsaw.w3.org/css-validator/>
   ![CSS Validator results](https://github.com/NinoFVal/HTML-CSS-Project/blob/main/media/css%20validator.jpg)
 
 ### Unfixed Bugs
@@ -205,4 +205,3 @@ Yup Yoga is hoping to a bring a wide variety of yoga classes to people who are l
 - Hero Image - Photo by Pixabay: <https://www.pexels.com/photo/stacked-of-stones-outdoors-289586/>.
 
 - Tinypng was used to optimize the hero image <https://tinypng.com/>
-
