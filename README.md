@@ -132,7 +132,7 @@ Yup Yoga is hoping to a bring a wide variety of yoga classes to people who are l
 
 #### Blog and Vlog posting
 
-- A page used by the Yoga teacher to share thier thought and post videos of techniques.
+- A page used by the Yoga teacher to share their thought and post videos of techniques.
 
 ## Testing
 
@@ -147,6 +147,36 @@ Yup Yoga is hoping to a bring a wide variety of yoga classes to people who are l
 - Physically, I tested the site on a Huawei Redmi 12 Pro+, an Acer Swift 3 Laptop with a 15in Screen and a Larger 25in Asus Monitor
 
 - Testing was also carried out by friends and family with positive feedback and constructive criticism.
+
+### UX Testing
+
+1.As a first time user I want to know what this site is about without much effort.
+
+- On the landing page, the first thing the user will notice is the site name.  This should make it clear that this site is about yoga, in the nav bar the user will find links to information on the yoga the person offering yoga classes.
+
+2.As a first time user I want learn more about yoga and whether it would suit my lifestyle.
+
+- Navigating to the yoga styles page, the user will find information on the yoga styles that are going to be taught.
+
+3.As a first time user I want to learn more about the yoga teacher holding these classes.
+
+- Navigating to the about me page, the user will find a personal statement from the yoga teacher.
+
+4.As a first time user I want to be able to contact the yoga teacher with any questions I may have.
+
+- Not only are there links in the footer to yoga teacher social pages. A form can be found on the book a class page where a user can leave a question for the yoga teacher.
+
+5.As a returning user want the option to book a yoga class if I am interested in joining.
+
+- A frequent user will find a class timetable and a link to a secure 3rd party booking and payment site.
+
+6.As a returning user I want to know where the yoga classes are being held.
+
+- A frequent user will find on the book a class, an embedded google map with a pinned location where the yoga classes are held.
+
+7 As a frequent user I want to see what time classes are held and on what days.
+
+- The user would know to navigate to the time table and see if there were any changes to the class times and days.
 
 ### Performance Testing
 
